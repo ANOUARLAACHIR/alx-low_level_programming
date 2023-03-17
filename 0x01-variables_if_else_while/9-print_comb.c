@@ -1,12 +1,10 @@
 #include <stdio.h>
-#include <stdio.h>
 
 /**
- * main - Prints the numbers from 0 to 9, numbers separated by
- *        a comma followed by a space, in ascending order.
+ * main - Prints all possible combinations of single-digit numbers.
  *
  * Return: Always 0.
-*/
+ */
 int main(void)
 {
 	int num;

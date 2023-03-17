@@ -2,7 +2,7 @@
 
 /**
  * main - Prints the lowercase alphabet in reverse.
- * 
+ *
  * Return: Always 0.
  */
 int main(void)
@@ -16,3 +16,4 @@ int main(void)
 
 	return (0);
 }
+

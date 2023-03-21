@@ -3,9 +3,9 @@
 /**
  * jack_bauer - a function that prints every minute of the day of Jack Bauer
  *
- * @n: Return n, -n otherwise
+ * n: Return n, -n otherwise
  * Return: n, -n otherwise
- */
+*/
 
 void jack_bauer(void)
 {

@@ -6,7 +6,7 @@
  * return 0 (Always).
  */
 
-int main(void) {
-	putchar("_putchar");
-	return 0;
+int _putchar(char c)
+{
+	return write(1, &c, 1);
 }

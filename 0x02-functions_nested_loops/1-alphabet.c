@@ -3,10 +3,10 @@
 /**
  * main - prints the alphabet, in lowercase, followed by a new line.
  *
- * Return: Always 0
+ * Return: 0 always
  */
 
-int main(void)
+void print_alphabet(void)
 {
 	char letter;
 	for(letter='a'; letter<='z'; letter++){

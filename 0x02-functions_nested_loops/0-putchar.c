@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * prints _putchar, followed by a new line
+ * main - Prints a random number and states whether
+ *        it is positive, negative, or zero.
  *
- * return 0 (Always).
- */
-
+ * Return: Always 0.
+*/
 int main(void) 
 {
 	_putchar('_');

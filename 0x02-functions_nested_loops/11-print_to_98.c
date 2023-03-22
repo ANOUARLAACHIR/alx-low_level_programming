@@ -4,6 +4,7 @@
  * print_to_98 : function that prints all numbers from n to 98, + new line
  *
  * @n : integer
+ * Return: 0 always
  */
 
 void print_to_98(int n)

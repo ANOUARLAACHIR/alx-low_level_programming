@@ -2,9 +2,10 @@
 
 /**
  * mul - multiply two numbers
- * @a, @b: The numbers to multiply
+ * @a: The numbers to multiply
+ * @b: The numbers to multiply
  *
- * Return: 0
+ * Return: The result of multiplication
  */
 int mul(int a, int b)
 {
